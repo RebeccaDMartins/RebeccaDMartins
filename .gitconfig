@@ -1,0 +1,10 @@
+[user]
+	name = Rebecca D. Martins
+	email = rebeccamartins.d@gmail.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[core]
+	editor = \"C:\\Users\\rebec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
