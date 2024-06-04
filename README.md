@@ -1,6 +1,6 @@
 ﻿# __*Olá, sejam bem-vindos!*__ ✌️
 
-Me chamo Rebecca D. Martins, sou de São Paulo e estudante do curso Engenheiro Front-End na EBAC! <br/>
+Me chamo Rebecca D. Martins, sou de São Paulo/SP e estudante do curso Engenheiro Front-End na EBAC! <br/>
 Sou nova no mundo da tecnologia e programação, atualmente passando pela transição de carreira. <br/>
 Espero poder contribuir muito nessa nova jornada que me aguarda ✨
 
