@@ -1,7 +1,7 @@
 ﻿# __*Olá, sejam bem-vindos!*__ ✌️
 
-Me chamo Rebecca D. Martins, sou de São Paulo/SP e estudante do curso Engenheiro Front-End na EBAC! <br/>
-Sou nova no mundo da tecnologia e programação, atualmente passando pela transição de carreira. <br/>
+Me chamo Rebecca D. Martins, sou de São Paulo/SP e estudante do curso de Web Design na FIAP! <br/>
+Sou nova no mundo da tecnologia e web design, atualmente passando pela transição de carreira. <br/>
 Espero poder contribuir muito nessa nova jornada que me aguarda ✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeccadmartins/)
