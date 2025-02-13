@@ -2,7 +2,7 @@
 
 Me chamo Rebecca D. Martins, sou de São Paulo/SP e estudante do curso de Web Design na FIAP! <br/>
 Sou nova no mundo da tecnologia e web design, atualmente passando pela transição de carreira. <br/>
-Espero poder contribuir muito nessa nova jornada que me aguarda ✨
+Espero poder contribuir muito nessa nova jornada que me aguarda!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeccadmartins/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebeccamartins.d@gmail.com)
