@@ -1,4 +1,4 @@
-﻿# __*Olá, sejam bem-vindos!*__ ✌️
+﻿# __*Olá, sejam bem-vindos!*__ ✨
 
 Me chamo Rebecca D. Martins, sou de São Paulo/SP e estudante do curso de Web Design na FIAP! <br/>
 Sou nova no mundo da tecnologia e web design, atualmente passando pela transição de carreira. <br/>
