@@ -1,7 +1,7 @@
 ﻿# __*Olá, sejam bem-vindos!*__ ✨
 
 Me chamo Rebecca D. Martins, sou de São Paulo/SP e estudante do curso de Web Design na FIAP! <br/>
-Sou estagiária na SMPED em São Paulo. <br/>
+Sou estagiária na SMPED em São Paulo, atuando na área de Web Design e acessibilidade digital. <br/>
 Espero poder contribuir muito nessa nova jornada!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeccadmartins/)
@@ -9,6 +9,7 @@ Espero poder contribuir muito nessa nova jornada!
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511934936717)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebeccaDMartins&hide_progress=compactlayout)
+
 
 
 
