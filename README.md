@@ -1,7 +1,7 @@
 ﻿# __*Olá, sejam bem-vindos!*__ ✨
 
-Me chamo Rebecca D. Martins, sou de São Paulo/SP e estudante do curso de Web Design na FIAP e de Sistemas para Internet na Descomplica! <br/>
-Sou estagiária na SMPED em São Paulo, atuando na área de Web Design e acessibilidade digital. <br/>
+Me chamo Rebecca D. Martins, formada em Web Design na FIAP e cursando Sistemas para Internet na Faculdade Descomplica! <br/>
+Sou estagiária na SMPED em São Paulo, atuando na área de Web Design e Acessibilidade Digital. <br/>
 Espero poder contribuir muito nessa jornada de desenvolvimento web!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeccadmartins/)
